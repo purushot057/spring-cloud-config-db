@@ -1,1 +1,9 @@
-logging.level.sa.com.stc.plm=DEBUG
+logging:
+  level:
+    sa:
+      com:
+        stc:
+          plm: DEBUG
+spring:
+  profiles:
+    active: dev
