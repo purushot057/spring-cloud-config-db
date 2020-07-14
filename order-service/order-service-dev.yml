@@ -1,9 +1,6 @@
 password: '{cipher}e6028f28be342b6e8285e9d32383d588fb4569072a8297491d26e52a06b4cf74'
 server:
   port: 8081
-spring:
-  profiles:
-    active: dev
   sleuth:
     sampler:
       probability: 1
